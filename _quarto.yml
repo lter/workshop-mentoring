@@ -15,6 +15,8 @@ website:
   navbar:
     background: primary
     right: 
+      - text: "People"
+        href: people.qmd
       - icon: github
         href: https://github.com/lter/workshop-mentoring
   sidebar: 
