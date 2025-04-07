@@ -13,18 +13,22 @@ We have created this website to serve as a hub for information during and after 
 
 ### Workshop Outline
 
-<p></p>
+<p>
 **All sessions begin at 10am PT / 1pm ET and end at 11:30am PT / 2:30pm ET**
+</p>
 
-
+<p>
 |**Date**|**Topic**|
-:-----:|:-----:
+| ----- | ----- |
 | April 17, 2025|Module 1: Aligning expectations |
 | April 24, 2025|Module 2: Communication/Mentoring challenges |
 | May 1, 2025|Module 3: Assessing understanding     |
 | May 7, 2025|Module 4: Mentoring Across Difference  |
 
-<p></p>
+</p>
+
+<p>
 More details coming soon. Please reach out to [Molly Phillips](mailto:mphillips@nceas.ucsb.edu) if you have any questions or issues.
-<p></p>
+</p>
+
 This workshop series is based on materials developed by: Center for the Improvement of Mentored Experiences in Research (CIMER) Wisconsin Center for Educational Research, University of Wisconsin-Madison 1025 W. Johnson Street, Madison, WI 53705; (608) 265-2419 [cimer@wcer.wisc.edu](cimer@wcer.wisc.edu); [cimerproject.org](https://cimerproject.org/).
