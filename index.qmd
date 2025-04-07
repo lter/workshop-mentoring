@@ -3,44 +3,25 @@ title: "Home"
 format: html
 ---
 
-## Welcome to the (Re)Entering Mentoring 2025 Workshop Series
-Welcome! This mentoring workshop (and the mentoring community that it seeds) is the result of concerted effort on the part of many LTER Network researchers and staff. Over the past few years, a handful of early-adopters have sought training in facilitation via the Entering Mentoring curriculum and begun offering the workshop at their sites. 
+## Basic Information
 
-You should have been prompted to register through Zoom when you registered, but if not, please reach out to [Molly Phillips](mailto:mphillips@nceas.ucsb.edu) and she can help. 
+### Welcome to the (Re)Entering Mentoring 2025 Workshop Series
 
-## Workshop Outline
-| Date & Time                                                  | Topic and Facilitators                                                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| **April 17, 2025**
+This is our second iteration of offering (Re)Entering Mentoring as an online webinar series for the LTER network. Thank you so much for joining us, and committing some time this semester to mentorship. We are really looking forward to working and growing with you.
 
-10 am-11:30 am PT
+We have created this website to serve as a hub for information during and after the series, and more information will be added in the next two weeks. 
 
-1:00-2:30 pm ET       | **Module 1: Aligning expectations**
+### Workshop Outline
 
-Facilitators: Cora Baird and Caitlin Potter                             |
-| **April 24, 2025**
-
-<br>
-
-10 am-11:30 am PT
-
-1:00-2:30 pm ET | **Module 2: Communication/Mentoring challenges**
-
-Facilitators: Liz Schultheis, Nameer Baker, Caitlin Potter |
-| **May 1, 2025**
-
-10 am-11:30 am PT 
-
-1:00-2:30 pm ET         | **Module 3: Assessing understanding**
-
-Facilitators: Jenn Bowen, Marty Downs                                 |
-| **May 7, 2025**
-
-10 am-11:30 am PT 
-
-1:00-2:30 pm ET         | **Module 4: Mentoring Across Difference**
-
-Facilitators: Nameer Baker, Cora Baird                            |
+**All sessions begin at 10am PT / 1pm ET and end at 11:30am PT / 2:30pm ET**
+| Date           |          Topic                               |
+| -------------- | -------------------------------------------- |
+| April 17, 2025 | Module 1: Aligning expectations              |
+| April 24, 2025 | Module 2: Communication/Mentoring challenges |
+| May 1, 2025    | Module 3: Assessing understanding            |
+| May 7, 2025    | Module 4: Mentoring Across Difference        |
 
 
-Based on materials developed by: Center for the Improvement of Mentored Experiences in Research (CIMER) Wisconsin Center for Educational Research, University of Wisconsin-Madison 1025 W. Johnson Street, Madison, WI 53705; (608) 265-2419 [cimer@wcer.wisc.edu](cimer@wcer.wisc.edu); [cimerproject.org](https://cimerproject.org/).
+More details coming soon. Please reach out to [Molly Phillips](mailto:mphillips@nceas.ucsb.edu) if you have any questions or issues.
+
+This workshop series is based on materials developed by: Center for the Improvement of Mentored Experiences in Research (CIMER) Wisconsin Center for Educational Research, University of Wisconsin-Madison 1025 W. Johnson Street, Madison, WI 53705; (608) 265-2419 [cimer@wcer.wisc.edu](cimer@wcer.wisc.edu); [cimerproject.org](https://cimerproject.org/).
