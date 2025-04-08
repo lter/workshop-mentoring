@@ -1,13 +1,13 @@
 ---
-title: "Home"
+title: "Welcome to the (Re)Entering Mentoring 2025 Workshop Series"
 format: html
 ---
 
 ## Basic Information
 
-### Welcome to the (Re)Entering Mentoring 2025 Workshop Series
-
 This is our second iteration of offering (Re)Entering Mentoring as an online webinar series for the LTER network. Thank you so much for joining us, and committing some time this semester to mentorship. We are really looking forward to working and growing with you.
+
+This workshop series is based on materials developed by: Center for the Improvement of Mentored Experiences in Research (CIMER) Wisconsin Center for Educational Research, University of Wisconsin-Madison 1025 W. Johnson Street, Madison, WI 53705; (608) 265-2419 [cimer@wcer.wisc.edu](cimer@wcer.wisc.edu); [cimerproject.org](https://cimerproject.org/).
 
 We have created this website to serve as a hub for information during and after the series, and more information will be added in the next two weeks. 
 
@@ -28,7 +28,10 @@ We have created this website to serve as a hub for information during and after 
 </p>
 
 <p>
-More details coming soon. Please reach out to [Molly Phillips](mailto:mphillips@nceas.ucsb.edu) if you have any questions or issues.
+
+### Contact Information 
+
+More details are coming soon. Please reach out to [Molly Phillips](mailto:mphillips@nceas.ucsb.edu) if you have any questions or issues.
 </p>
 
-This workshop series is based on materials developed by: Center for the Improvement of Mentored Experiences in Research (CIMER) Wisconsin Center for Educational Research, University of Wisconsin-Madison 1025 W. Johnson Street, Madison, WI 53705; (608) 265-2419 [cimer@wcer.wisc.edu](cimer@wcer.wisc.edu); [cimerproject.org](https://cimerproject.org/).
+
