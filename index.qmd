@@ -9,7 +9,7 @@ This is our second iteration of offering (Re)Entering Mentoring as an online web
 
 This workshop series is based on materials developed by: Center for the Improvement of Mentored Experiences in Research (CIMER) Wisconsin Center for Educational Research, University of Wisconsin-Madison 1025 W. Johnson Street, Madison, WI 53705; (608) 265-2419 [cimer@wcer.wisc.edu](cimer@wcer.wisc.edu); [cimerproject.org](https://cimerproject.org/).
 
-We have created this website to serve as a hub for information during and after the series, and more information will be added in the next two weeks. 
+We have created this website to serve as a hub for information during and after the series, and more information will be added throughout.
 
 ### Workshop Outline
 
@@ -32,7 +32,7 @@ We have created this website to serve as a hub for information during and after 
 ### Contact Information 
 
 - [Entering Mentoring 2025 Cohort Google Group](https://groups.google.com/a/nceas.ucsb.edu/g/lter-em2/about)
--- Visit the link above to change your group settings, or to request access for a different email address.
+-- Visit to change your group settings, or to request access for a different email address.
 - [Group Introductions Document](https://docs.google.com/document/d/1lQshR6YeePNOCt_f4Kko8cihpJfHXxQr_zvuT5Icxjs/edit?usp=sharing) 
 --Please add your information here! 
 - Please reach out to [Molly Phillips](mailto:mphillips@nceas.ucsb.edu) if you have any questions or issues.
